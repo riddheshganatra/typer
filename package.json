@@ -13,7 +13,7 @@
     "clipboardy": "^2.3.0",
     "iohook": "^0.6.6",
     "node-key-sender": "^1.0.11",
-    "node-notifier": "^7.0.2",
+    "node-notifier": "^8.0.1",
     "robotjs": "^0.6.0"
   }
 }
